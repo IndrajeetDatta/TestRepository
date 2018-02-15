@@ -7,6 +7,7 @@
 using namespace cv;
 using namespace std;
 
+////////////////-----------------------------//////////////////////////
 //////////////////////////////////----- BLOB CONSTRUCTOR -----///////////////////////////////////
 
 Blob::Blob(const vector<Point> &contour)
