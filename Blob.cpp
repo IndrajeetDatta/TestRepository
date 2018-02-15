@@ -17,7 +17,7 @@ using namespace std;
 
 // --- Comment #5 --- //
 
-
+// --- Comment#6 -- //
 //////////////////////////////////----- BLOB CONSTRUCTOR -----///////////////////////////////////
 
 Blob::Blob(const vector<Point> &contour)
