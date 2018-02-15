@@ -13,6 +13,8 @@ using namespace std;
 
 // ----- Comment #3 ----- //
 
+// --- Comment #4 ---- //
+
 //////////////////////////////////----- BLOB CONSTRUCTOR -----///////////////////////////////////
 
 Blob::Blob(const vector<Point> &contour)
